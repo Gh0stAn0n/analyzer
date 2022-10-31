@@ -1,18 +1,7 @@
 <p align="center">
   <p align="center">
   </a>
-    <a href="https://github.com/CrunchCorps/RemoteController">
-      <img src="https://img.shields.io/badge/Version-2.4.6-darkgreen">
-        <img src="https://img.shields.io/badge/Release%20Date-September%202022-blue">
-  <img src="https://shields.io/badge/Bash-100%25-066da5">
-  <img src="https://shields.io/badge/Platform-Linux-darkred">
-    </a>
-  </p>
-</p>
-
-<p align="center">
-  <p align="center">
-  </a>
+      <a href="https://github.com/gh0st-anonymous/analyzer">
       <img src="https://img.shields.io/badge/Version-1.0.0-darkgreen">
         <img src="https://img.shields.io/badge/Release%20Date-March%202022-purple">
   <img src="https://shields.io/badge/Bash-100%25-066da5">
