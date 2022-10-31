@@ -59,8 +59,6 @@ just launch the script by typing:
 
 ### Download
 
-from github: 
+from [zip](https://github.com/gh0st-anonymous/analyzer/files/9900045/analyzer.zip) file or from github: 
 
     git clone https://github.com/gh0st-anonymous/analyzer
-
-from [zip](https://github.com/gh0st-anonymous/analyzer/files/9900045/analyzer.zip) file
