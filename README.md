@@ -31,7 +31,7 @@ volatlity, bulk_extractor, binwalk, foremost and strings.
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
 
-- use -i for info, for the script resume, [sudo] bash  / ./analyzer -i
+- use -i for info, for the script resume, type [sudo] bash  / ./analyzer -i
 
 - use -h for help, for the script usage, type [sudo] bash  / ./analyzer -h
 
