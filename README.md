@@ -2,7 +2,7 @@
   <p align="center">
   </a>
       <img src="https://img.shields.io/badge/Version-1.0.0-darkgreen">
-        <img src="https://img.shields.io/badge/Release%20Date-March%202022-blue">
+        <img src="https://img.shields.io/badge/Release%20Date-March%202022-purple">
   <img src="https://shields.io/badge/Bash-100%25-066da5">
   <img src="https://shields.io/badge/Platform-Linux-darkred">
     </a>
