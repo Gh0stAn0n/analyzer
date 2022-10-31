@@ -55,14 +55,12 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 just launch the script by typing:
 
-     > sudo bash script-name
-     or
-     > sudo ./script-name
+![pic](https://user-images.githubusercontent.com/102325071/199018360-a9922f2d-2106-44d3-a99d-ea9233c0eb67.png)
 
 ### Download
 
-from github: git clone https://github.com/gh0st-anonymous/analyzer
+from github: 
 
-or
+      git clone https://github.com/gh0st-anonymous/remote-control
 
-from ZIP file: [analyzer.zip](https://github.com/gh0st-anonymous/analyzer/files/9900045/analyzer.zip)
+from [zip](https://github.com/gh0st-anonymous/analyzer/files/9900045/analyzer.zip) file
