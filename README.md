@@ -4,7 +4,7 @@ analyzer is a bash script that analyze and retrieve data from memory and hard di
 
 volatlity, bulk_extractor, binwalk, foremost and strings.
 
-# Possibility and Capability
+### Possibility and Capability
 
 >ADVANTAGES:
 
