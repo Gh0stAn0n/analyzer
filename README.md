@@ -1,3 +1,14 @@
+<p align="center">
+  <p align="center">
+  </a>
+      <img src="https://img.shields.io/badge/Version-2.4.6-darkgreen">
+        <img src="https://img.shields.io/badge/Release%20Date-September%202022-blue">
+  <img src="https://shields.io/badge/Bash-100%25-066da5">
+  <img src="https://shields.io/badge/Platform-Linux-darkred">
+    </a>
+  </p>  
+</p>
+
 # About 'analyzer'
 
 analyzer is a bash script that analyze and retrieve data from memory and hard disk drive files using:
@@ -30,17 +41,17 @@ volatlity, bulk_extractor, binwalk, foremost and strings.
 
 - if incorrect arguments or flags are written, the standard script will run. (advantage as well)
 
-# 'analyzer' Project
+### 'analyzer' Project
 
 a [project](https://github.com/gh0st-anonymous/analyzer/files/9894648/project.pdf) made by [ThinkCyber.](https://www.thinkcyber.co.il/)
 
-# Video Demonstration
+### Video Demonstration
 
 Be Aware: the script could be different from the video since he got upgraded.
 
 [![image](https://user-images.githubusercontent.com/102325071/198853694-862848c2-16fa-43c5-9eb6-abd9679af4bd.jpg)](https://www.youtube.com/watch?v=aII0oweQ1V8)
 
-# Script Usage
+### Script Usage
 
 just launch the script by typing:
 
