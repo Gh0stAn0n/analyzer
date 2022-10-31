@@ -61,6 +61,6 @@ just launch the script by typing:
 
 from github: 
 
-      git clone https://github.com/gh0st-anonymous/remote-control
+    git clone https://github.com/gh0st-anonymous/remote-control
 
 from [zip](https://github.com/gh0st-anonymous/analyzer/files/9900045/analyzer.zip) file
