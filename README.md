@@ -55,11 +55,11 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 ### Script Usage
 
-just launch the script by typing:
+launch the script by typing:
 
 ![pic](https://user-images.githubusercontent.com/102325071/199018360-a9922f2d-2106-44d3-a99d-ea9233c0eb67.png)
 
--h (stand for help) for more info about the flags options.
+-h (stand for help) for more info about the flags option.
 
 -i (stand for info) for more info about the script.
 
