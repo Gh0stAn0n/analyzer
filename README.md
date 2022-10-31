@@ -3,7 +3,8 @@
         <img src="https://img.shields.io/badge/Release%20Date-March%202022-blue">
   <img src="https://shields.io/badge/Bash-100%25-066da5">
   <img src="https://shields.io/badge/Platform-Linux-darkred">
-    </a>
+      </a>
+    </p>
   </p>
 
 # About 'analyzer'
