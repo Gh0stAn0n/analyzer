@@ -55,4 +55,14 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 just launch the script by typing:
 
-![pic](https://user-images.githubusercontent.com/102325071/198970600-7e97f9da-5704-4b2c-b831-8240417b6b5f.png)
+     > sudo bash script-name
+     or
+     > sudo ./script-name
+
+### Download
+
+from github: https://github.com/gh0st-anonymous/analyzer
+
+   > or
+
+from ZIP file: [analyzer.zip](https://github.com/gh0st-anonymous/analyzer/files/9900045/analyzer.zip)
