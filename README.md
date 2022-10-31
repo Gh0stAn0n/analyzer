@@ -1,3 +1,5 @@
+# About 'analyzer'
+
 <p align="center">
    </a>
       <a href="https://github.com/gh0st-anonymous/analyzer">
@@ -8,9 +10,6 @@
     </a>
   </p>
 </p>
-
-
-# About 'analyzer'
 
 analyzer is a bash script that analyze and retrieve data from memory and hard disk drive files using:
 
