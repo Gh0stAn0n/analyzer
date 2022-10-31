@@ -63,6 +63,6 @@ just launch the script by typing:
 
 from github: https://github.com/gh0st-anonymous/analyzer
 
-   > or
+     > or
 
 from ZIP file: [analyzer.zip](https://github.com/gh0st-anonymous/analyzer/files/9900045/analyzer.zip)
