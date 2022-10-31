@@ -1,4 +1,5 @@
-  </a>
+<p align="center">
+</a>
       <a href="https://github.com/gh0st-anonymous/analyzer">
       <img src="https://img.shields.io/badge/Version-1.0.0-darkgreen">
         <img src="https://img.shields.io/badge/Release%20Date-april%202022-purple">
