@@ -13,7 +13,7 @@
 
 analyzer is a bash script that analyze and retrieve data from memory and hard disk drive files using:
 
-volatlity, bulk_extractor, binwalk, foremost and strings.
+[volatlity](https://github.com/volatilityfoundation/volatility), [bulk_extractor](https://www.kali.org/tools/bulk-extractor/), [binwalk](https://www.kali.org/tools/binwalk/), [foremost](https://www.kali.org/tools/foremost/) and [strings](https://linuxhint.com/strings-ubuntu-command-use/).
 
 ### Possibility and Capability
 
@@ -45,7 +45,7 @@ volatlity, bulk_extractor, binwalk, foremost and strings.
 
 ### 'analyzer' Project
 
-a [project](https://github.com/gh0st-anonymous/analyzer/files/9894648/project.pdf) made by [ThinkCyber.](https://www.thinkcyber.co.il/)
+a [project](https://github.com/gh0st-anonymous/analyzer/files/9894648/project.pdf) made by [ThinkCyber](https://www.thinkcyber.co.il/).
 
 ### Video Demonstration
 
@@ -65,6 +65,6 @@ launch the script by typing:
 
 ### Download
 
-from [zip](https://github.com/gh0st-anonymous/analyzer/files/9900045/analyzer.zip) file or from github: 
+from [zip] file or from github: 
 
     git clone https://github.com/gh0st-anonymous/analyzer
