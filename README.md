@@ -31,9 +31,9 @@ analyzer is a bash script that analyze and retrieve data from memory and hard di
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
 
-- use -i for info, for the script resume, type [sudo] bash  / ./analyzer -i
+- use -i for info for the script resume, type [sudo] bash  / ./analyzer -i
 
-- use -h for help, for the script usage, type [sudo] bash  / ./analyzer -h
+- use -h for help for the script usage, type [sudo] bash  / ./analyzer -h
 
 - help and info menu doesn't require sudo privileges.
 
