@@ -521,7 +521,7 @@ function VOLATILITY_CHECK()
                 else
                         sleep 1.2
 			echo ""
-                        echo -e "[${BLUE}+${STOP}] volatility packages: ${LGREEN}installed${STOP} at: $volatility"
+                        echo -e "[${BLUE}+${STOP}] volatility packages installed successfully."
 			echo "______________________________"
                 fi
 }
