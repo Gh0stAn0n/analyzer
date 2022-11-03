@@ -1043,7 +1043,7 @@ function HDD()
 	mkdir -p /home/Stats
 
         date=$(date)
-                echo -e " \n \n${BLUE}\e[4mStatistics file:\e[0m${STOP} \n \n ${BLUE}-${STOP} analyze made on: ${LORANGE}$date${STOP} \n ${BLUE}-${STOP} file type searched: $type \n ${BLUE}-${STOP} file path location: $path \n ${BLUE}-${STOP} tool(s) used: ${LGREEN}$tool${STOP} \n ${BLUE}-${STOP} filtered argument: $argument \n ${BLUE}-${STOP} output path location: /home/$dirpath" >> /home/Stats/hdd.stats
+                echo -e " \n \n${BLUE}\e[4mStatistics file:\e[0m${STOP} \n \n ${BLUE}-${STOP} analyze made on: ${LORANGE}$date${STOP} \n ${BLUE}-${STOP} file type searched: $type \n ${BLUE}-${STOP} file path location: $path \n ${BLUE}-${STOP} tool(s) used: ${LGREEN}$tool${STOP} \n ${BLUE}-${STOP} filtered argument: $argument \n ${BLUE}-${STOP} output path location: /home/hddExtracted/$dirpath" >> /home/Stats/hdd.stats
 
 		sleep 2
                 echo ""
