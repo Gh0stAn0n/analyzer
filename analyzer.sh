@@ -11,7 +11,7 @@
 # Tested on : Kali Linux
 # I highly recommend using this tool on Kali Linux OS
 #
-# More Info : https://github.com/gh0st-anonymous
+# More Info : https://github.com/Gh0stAn0n
 #
 # Remember To Use For Educational Purpose only
 # Im Not Responsible Of Anything That Might Happen
@@ -109,7 +109,7 @@ mv -n $0 analyzer
                 echo ""
                 echo ""
                 sleep 1
-                echo -e " - dont forget going to ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+                echo -e " - dont forget going to ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
                 sleep 1
                 echo ""
                 exit
@@ -223,7 +223,7 @@ command=$5
 		echo -e "[${BLUE}+${STOP}] path to the new created directory: /home/hddExtracted/$output"
                 echo ""
                 sleep 2
-                echo -e " - dont forget going to ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+                echo -e " - dont forget going to ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
 		exit
 
 
@@ -332,7 +332,7 @@ volatility=$(locate /volatility_2.6_lin64_standalone | head -1)
                                 date=$(date)
                                 echo -e " \n \n${BLUE}\e[4mStatistics file:\e[0m${STOP} \n \n ${BLUE}-${STOP} analyze made on: ${LORANGE}$date${STOP} \n ${BLUE}-${STOP} file type searched: $file \n ${BLUE}-${STOP} file path location: $path \n ${BLUE}-${STOP} suggested profil used: ${LGREEN}$profile${STOP} \n ${BLUE}-${STOP} volatility command used: ${LPURPLE}$command${STOP}  \n ${BLUE}-${STOP} no output saved" >> /home/Stats/mem.stats
                                 sleep 2
-                                echo -e " - dont forget going to ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+                                echo -e " - dont forget going to ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
 				exit
 
 
@@ -396,7 +396,7 @@ volatility=$(locate /volatility_2.6_lin64_standalone | head -1)
 		echo -e "[${BLUE}+${STOP}] path to the new created $ex: /home/memExtracted/$output$i"
                 echo ""
                 sleep 2
-                echo -e " - dont forget going to ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+                echo -e " - dont forget going to ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
                 exit
 		fi
 
@@ -438,7 +438,7 @@ function ROOT()
                 then
                 sleep 3
                 echo ""
-                echo -e "${RED}[i]${STOP} session aborted - dont forget going to: ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+                echo -e "${RED}[i]${STOP} session aborted - dont forget going to: ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
                 exit
 
                 else
@@ -818,7 +818,7 @@ pwd=$(locate /volatility_2.6_lin64_standalone | head -1)
 			if [[ $choice = X || $choice = x ]]
         	        then
         	        echo ""
-        	        echo -e " - dont forget going to: ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+        	        echo -e " - dont forget going to: ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
 			sleep 3
 			exit
 
@@ -1058,7 +1058,7 @@ function HDD()
                         if [[ $choice = X || $choice = x ]]
                         then
                         echo ""
-                        echo -e " - dont forget going to: ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+                        echo -e " - dont forget going to: ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
                         sleep 3
                         exit
 
