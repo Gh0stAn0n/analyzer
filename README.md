@@ -19,6 +19,8 @@ analyzer is a bash script that analyze and retrieve data from memory and hard di
 
 >ADVANTAGES:
 
+- help and info menu doesn't require sudo privileges.
+
 - have 3 way to analyze the wanted file: 1=standard bash script, 2=argument script, 3=flag script (using arguments)
 
 - capable of doing almost every volatility commands since not every one of them use the same option. (if your suggested profile is for exemple VistaSP1x86, some command could require for exemple WinSP2x86)
@@ -30,12 +32,6 @@ analyzer is a bash script that analyze and retrieve data from memory and hard di
 - check for every errors possible. (correct path, correct answers as input, if the mem file choosen is truly a mem file)
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
-
-- use -i for info for the script resume, type [sudo] bash  / ./analyzer -i
-
-- use -h for help for the script usage, type [sudo] bash  / ./analyzer -h
-
-- help and info menu doesn't require sudo privileges.
 
 >DISADVANTAGES:
 
@@ -57,7 +53,9 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 launch the script by typing:
 
-![pic](https://user-images.githubusercontent.com/102325071/199018360-a9922f2d-2106-44d3-a99d-ea9233c0eb67.png)
+└─$ sudo bash analyzer.sh
+
+└─$ sudo ./analyzer
 
 -h (stand for help) for more info about the flags option.
 
