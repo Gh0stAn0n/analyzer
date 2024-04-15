@@ -17,7 +17,7 @@ analyzer is a bash script that analyze and retrieve data from memory and hard di
 
 ### Possibility and Capability
 
->ADVANTAGES:
+>PROS:
 
 - help and info menu doesn't require sudo privileges.
 
@@ -33,7 +33,7 @@ analyzer is a bash script that analyze and retrieve data from memory and hard di
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
 
->DISADVANTAGES:
+>CONS:
 
 - since we can run the script using arguments and flags, we cant put errors message for the flags option using "else" because it will disable the arguments scipt and vice versa.
 
